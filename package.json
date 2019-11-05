@@ -1,0 +1,19 @@
+{
+  "name": "dyforms-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

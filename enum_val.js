@@ -1,0 +1,13 @@
+const STATUS = {
+  COMPLETED: 'COMPLETED',
+  CANCELLED: 'CANCELLED'
+};
+const CANCELLED_REASON = {
+  ENDUSER: 'ENDUSER',
+  OTHER: 'OTHER'
+};
+
+module.exports = {
+  STATUS,
+  CANCELLED_REASON
+};
